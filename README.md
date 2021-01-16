@@ -3,7 +3,7 @@ Website gratis tanpa harus beli hosting ataupun domain.
 
 ## Contoh Situs
 * [Contoh versi 1](https://free-web-demo.floral.workers.dev/)
-* [Contoh versi 2](https://https://demo-site-v2.floral.workers.dev/)
+* [Contoh versi 2](https://demo-site-v2.floral.workers.dev/)
 * [Contoh versi 3](https://project-theme.floral.workers.dev/)
 
 ## Cara Deploy
