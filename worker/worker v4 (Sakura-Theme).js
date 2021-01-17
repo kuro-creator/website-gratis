@@ -4,14 +4,14 @@ const html = `<!DOCTYPE html>
 <title>Sakura Project</title>
 <meta charset="UTF-8">
 <meta name="viewport" content="width=device-width, initial-scale=1">
-<link rel="stylesheet" href="https://cdn.jsdelivr.net/gh/kuro-creator/website-gratis/sakura/sakura.css">
-<link rel="stylesheet" href="https://cdn.jsdelivr.net/gh/kuro-creator/website-gratis/sakura/Bootstrap.min.css">
-<link rel="stylesheet" href="https://cdn.jsdelivr.net/gh/kuro-creator/website-gratis/sakura/js/bootstrap.min.js">
-<link rel="stylesheet" href="https://cdn.jsdelivr.net/gh/kuro-creator/website-gratis/sakura/js/jquery.min.js">
+<link rel="stylesheet" id="sakuracircle-style-css" href="https://cdn.jsdelivr.net/gh/kuro-creator/website-gratis/sakura/sakura.css" type="text/css" media="all">
+<link rel="stylesheet" id="bootstrap-style-css" href="https://cdn.jsdelivr.net/gh/kuro-creator/website-gratis/sakura/Bootstrap.min.css" type="text/css" media="all">
+</script><script type="text/javascript" src="https://cdn.jsdelivr.net/gh/kuro-creator/website-gratis/sakura/js/jquery.min.js" id="jquery-core-js"></script>
+<script type="text/javascript" src="https://cdn.jsdelivr.net/gh/kuro-creator/website-gratis/sakura/js/bootstrap.min.js"></script>
 <link rel="stylesheet" href="https://cdn.jsdelivr.net/gh/kuro-creator/website-gratis/css/back-to-top-grey.css">
 
 <style>
-body.custom-background { background-image: url("https://sakuracircle.com/wp-content/uploads/2020/01/bg.png"); background-position: left top; background-size: auto; background-repeat: repeat; background-attachment: scroll; }
+body.custom-background { background-image: url("https://telegra.ph/file/418b3b3faa50cd2d1c50b.png"); background-position: left top; background-size: auto; background-repeat: repeat; background-attachment: scroll; }
 </style>
 </head>
 
