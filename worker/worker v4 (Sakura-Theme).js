@@ -8,10 +8,31 @@ const html = `<!DOCTYPE html>
 <link rel="stylesheet" id="bootstrap-style-css" href="https://cdn.jsdelivr.net/gh/kuro-creator/website-gratis/sakura/Bootstrap.min.css" type="text/css" media="all">
 </script><script type="text/javascript" src="https://cdn.jsdelivr.net/gh/kuro-creator/website-gratis/sakura/js/jquery.min.js" id="jquery-core-js"></script>
 <script type="text/javascript" src="https://cdn.jsdelivr.net/gh/kuro-creator/website-gratis/sakura/js/bootstrap.min.js"></script>
-<link rel="stylesheet" href="https://cdn.jsdelivr.net/gh/kuro-creator/website-gratis/css/back-to-top-grey.css">
 
 <style>
 body.custom-background { background-image: url("https://telegra.ph/file/418b3b3faa50cd2d1c50b.png"); background-position: left top; background-size: auto; background-repeat: repeat; background-attachment: scroll; }
+
+#myBtn {
+  display: none;
+  position: fixed;
+  bottom: 20px;
+  right: 30px;
+  z-index: 99;
+  font-size: 15px;
+  border: none;
+  outline: none;
+  background-color: grey;
+  color: white;
+  cursor: pointer;
+  padding: 10px;
+  border-radius: 4px;
+  opacity: 0.5;
+}
+
+#myBtn:hover {
+  background-color: red;
+}
+
 </style>
 </head>
 
